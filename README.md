@@ -8,7 +8,7 @@ Password: 123
 ---
 <h3>Functionalities</h3>
 <ul>
-  <li>Create New Car Record</li>
+  <li>Create a New Car Record</li>
   <li>Search a Car Record</li>
   <li>Edit a Car Record</li>
   <li>Remove a Car Record</li>
