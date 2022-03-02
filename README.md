@@ -2,7 +2,6 @@
 
 ---
 ```
-**3 Attempts ONLY**
 Username: HelloWorld
 Password: 123
 ```
